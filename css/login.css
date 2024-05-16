@@ -19,6 +19,16 @@ body {
 
 }
 
+.copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 12px;
+    color: #fff6f6;
+    text-shadow: 2px 2px #000000;
+}
+
 .login__header img {
     width: 200px;
 }
