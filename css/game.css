@@ -23,6 +23,16 @@ header {
     border-radius: 5px;
 }
 
+.copygame {
+    display: flex;
+    justify-content: right;
+    font-size: small;
+    margin: 0;
+    padding: 0px;
+    background-color: black;
+    color: gray;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
