@@ -1,0 +1,30 @@
+@media screen and (max-width: 680px) {
+    
+    html, body {
+        overflow-x: hidden;
+    }
+    
+    .logo img{
+        display: flex;
+        height: 200px;
+        align-items: center;
+        justify-content: center;
+        padding-top: 10%;
+    }
+
+ 
+
+    header {
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: space-between;
+        background-color: rgba(255, 255, 255, 0.8);
+        font-size: 1.2em;
+        width: 100%;
+        max-width: 700px;
+        padding: 30px;
+        margin: 0px 0px 30px;
+        border-radius: 5px;
+    }
+}

@@ -1,4 +1,5 @@
 body {
+    overflow-x: hidden;
     background: linear-gradient(#fd0000,#000000);
 }
 
@@ -8,7 +9,6 @@ body {
     height: 100vh;
     flex-direction: column;
     justify-content: center;
-  ;
 }
 
 .login__header {
