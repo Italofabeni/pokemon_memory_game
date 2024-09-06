@@ -1,6 +1,8 @@
 body {
     overflow-x: hidden;
-    background: linear-gradient(#fd0000,#000000);
+    /*background: linear-gradient(#fd0000,#000000);*/
+    background-image: url("/images/ash_bg.jpg");
+    background-size: cover;
 }
 
 .login-form {
