@@ -80,3 +80,17 @@ header {
     filter: saturate(0);
     opacity: 0.5;
 }
+
+::-webkit-scrollbar-track {
+    background-color: #0000009a;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #636363;
+    border-radius: 2px;
+}
